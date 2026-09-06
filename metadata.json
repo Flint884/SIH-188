@@ -1,0 +1,11 @@
+{
+  "name": "AI-Based Fake Identity & Document Screening System",
+  "description": "Secure AI-assisted identity and document verification platform with live OCR, tampering detection, and face verification",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
